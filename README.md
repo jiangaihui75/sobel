@@ -1,5 +1,4 @@
 # sobel
-![Uploading image.png…]()
 
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/94519594/157878766-4ab3fbf1-1ace-4e0a-b11b-766c82008374.png">
 
